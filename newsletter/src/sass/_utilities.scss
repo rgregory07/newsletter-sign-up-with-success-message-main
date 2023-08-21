@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+}
+
+.between {
+  justify-content: space-between;
+}
+
+.hidden {
+  display: none;
+}
+
+.error--text {
+  color: orangered;
+}
+.error--input {
+  color: orangered;
+  background-color: rgb(251, 203, 187);
+}
